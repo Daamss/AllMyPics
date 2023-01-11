@@ -2,7 +2,7 @@
 
 
 ## Description 
-Need images quick for a school project you're running late on? Just want to see what images Google has to offer? With AllMyPics, you can mass download any images of your choice with a simple search of whatever word you like! - Created with OpenAI
+Need images quick for a school project you're running late on? Just want to see what images Google has to offer? With AllMyPics, you can mass download any images of your choice with a simple search of whatever keyword you like! - Created with OpenAI
 
 
 ## Installation 
