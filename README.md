@@ -16,6 +16,8 @@ Simply run AMP.py and input the keywords you want to download the images for. Th
 * A text document called "links" will be created that give the raw link of all downloaded images
 
 
+* Please note that due to googles search query, searches are limited to 21 images per keyword. This is easily bypassable but im lazy ty <3
+
 ## License 
 -
 
